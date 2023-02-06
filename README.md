@@ -1,2 +1,2 @@
 # temporal
-print("Gothsec have join")
+Cambiar nombre despues
