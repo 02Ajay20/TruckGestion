@@ -1,2 +1,2 @@
 # temporal
-hay que cambiarle el nombre despues
+print("Gothsec have join")
